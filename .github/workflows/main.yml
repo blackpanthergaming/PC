@@ -1,5 +1,5 @@
 name: CI\
-github/workflows/main.yml
+\ github/workflows/main.yml
 \
 on: [push, workflow_dispatch]\
 \
